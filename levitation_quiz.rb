@@ -1,5 +1,6 @@
 
 def levitation_quiz
+	a
 	loop do 
 	  puts "What is the spell that enacts levitation?"
 	  gets.chomp = answer
